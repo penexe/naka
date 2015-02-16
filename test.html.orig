@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Git Test</title>
+</head>
+
+<body>
+<p>1</p>
+<<<<<<< HEAD
+<p>m1</p>
+=======
+<p>b1</p>
+>>>>>>> b1
+</body>
+</html>
